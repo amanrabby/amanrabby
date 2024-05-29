@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">Reach Me <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/></h3>
+<h3 align="left">Reach Me <img style="width:45px;display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"></h3>
 
 ###
 
